@@ -1,2 +1,0 @@
-# airhop
-capstone project
